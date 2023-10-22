@@ -16,8 +16,5 @@ int main(){
         cout << "a = b" << endl;
         }
     cout << "Sum: " << a + b;
-
-
-    
     return 0;
 }
